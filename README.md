@@ -1,16 +1,7 @@
 # counter
 
-A new Flutter project.
+## Flutter default counter app with 3 screens.
 
-## Getting Started
+I've used BLoC for state management and optimized widget rebuilds.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![counter](https://user-images.githubusercontent.com/95259774/193397242-2a51482a-73b6-46f1-a522-7cd76a6c0f4c.png)
